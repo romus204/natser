@@ -1,0 +1,35 @@
+#connection-status {
+    color: #939393;
+}
+
+#history-messages {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+#favorite-messages {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+#sub-message-card {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.custom-mr {
+    margin-right: 0.5rem;
+}
+
+.active {
+    background: #4e7d97 !important;
+    border-color: #4e7d97 !important;
+}
+
+.nav-color {
+    color: #7cc1e6 !important;
+}
+
+.bottom-bar {
+    color: #939393;
+}
