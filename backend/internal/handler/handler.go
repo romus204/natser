@@ -239,7 +239,7 @@ func (h *Handler) SendRequest() fiber.Handler {
 			return fiber.ErrInternalServerError
 		}
 
-		c.JSON(resp)
+		c.JSON(string(resp.Data))
 
 		return nil
 
